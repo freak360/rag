@@ -24,8 +24,8 @@ This project is a **Retrieval-Augmented Generation (RAG) application** that extr
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/freak360/rag-pdf.git
-cd rag-pdf
+git clone https://github.com/freak360/rag.git
+cd rag
 ```
 
 2. Create a Python Virtual Environment
