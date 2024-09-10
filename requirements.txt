@@ -1,0 +1,10 @@
+llama-index
+PyPDF2
+camelot-py
+streamlit
+pandas
+opencv-python
+transformers
+llama-index-embeddings-huggingface
+openai
+python-dotenv
