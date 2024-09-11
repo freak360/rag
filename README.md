@@ -31,7 +31,7 @@ cd rag
 2. Create a Python Virtual Environment
 Create and activate a virtual environment to keep the dependencies isolated:
 
-'''bash
+```bash
 
 # On macOS/Linux
 python3.11 -m venv venv
@@ -55,7 +55,9 @@ This application uses the OpenAI API to process queries. You need to create a .e
 Create a file named .env in the root directory:
 
 Add the following line to the .env file, replacing your_openai_api_key_here with your actual OpenAI API key:
+```bash
 OPENAI_API_KEY=your_openai_api_key_here
+```
 
 **How to Run the Application**
 After setting up the dependencies and API key, run the Streamlit application with the following command:
