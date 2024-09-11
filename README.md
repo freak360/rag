@@ -102,7 +102,7 @@ You can also contact me at: maneebajmal@gmail.com
 ## **Acknowledgements**
 This project uses the following open-source tools and libraries:
 
-**Streamlit:** For building interactive web applications.
-**Llama Index:** For document ingestion and retrieval.
-**OpenAI:** For the natural language understanding and generation capabilities.
-**Camelot:** For PDF table extraction.
+1. **Streamlit:** For building interactive web applications.
+2. **Llama Index:** For document ingestion and retrieval.
+3. **OpenAI:** For the natural language understanding and generation capabilities.
+4. **Camelot:** For PDF table extraction.
