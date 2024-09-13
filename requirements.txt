@@ -3,7 +3,7 @@ PyPDF2
 camelot-py
 streamlit
 pandas
-opencv-python
+#opencv-python
 transformers
 llama-index-embeddings-huggingface
 openai
